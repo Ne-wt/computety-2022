@@ -17,3 +17,5 @@
 
 # example output 2:
 # 2016 (2016 was a leap year)
+
+# hint: use the modulus operator
